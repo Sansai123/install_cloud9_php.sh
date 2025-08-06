@@ -1,0 +1,32 @@
+{
+    "ace": {
+        "@keyboardmode": "default",
+        "@showGutter": true,
+        "@theme": "ace/theme/ambiance",
+        "statusbar": {
+            "@show": true
+        }
+    },
+    "build": {
+        "@autobuild": false
+    },
+    "debug": {
+        "@autoshow": true,
+        "@pause": 0
+    },
+    "general": {
+        "@skin": "jett-dark"
+    },
+    "openfiles": {
+        "@show": false
+    },
+    "projecttree": {
+        "@showhidden": true
+    },
+    "tabs": {
+        "@show": true
+    },
+    "welcome": {
+        "@first": true
+    }
+}
